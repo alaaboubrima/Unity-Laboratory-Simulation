@@ -1,1 +1,1 @@
-Click on [view row] to download the video.
+Click on the video the on **View raw** to download the video.
